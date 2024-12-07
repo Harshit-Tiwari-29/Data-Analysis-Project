@@ -30,3 +30,6 @@ Agriculture is a cornerstone of global sustenance, and precision agriculture hel
 
 ## 4. Conclusion
 This project illustrates the potential of data-driven approaches in agriculture. By analyzing environmental factors and employing machine learning, farmers can receive accurate recommendations tailored to their fields. Future work could involve integrating real-time data and expanding the model to include additional factors such as pest resistance or market trends.
+
+## 5. Reference
+Crop Recommendation Dataset, Kaggle (https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
